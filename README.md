@@ -1,4 +1,4 @@
-##How to use
+##How to run
 
 If you don't have ffmpeg, make sure to install it by running:
 ```bash
